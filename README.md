@@ -15,6 +15,7 @@ Make sure to have the following installed
 - Node.js
 - MongoDB
 
+### Steps
 1. Clone this repository
 2. In the `.env` file in `/exercise-rest` replace 'your_connection_string' with your actual MongoDB string.
 MONGODB_CONNECT_STRING='your_connection_string'
