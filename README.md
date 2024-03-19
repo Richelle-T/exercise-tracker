@@ -24,12 +24,12 @@ Make sure to have the following installed
 All changes made (add, edit, delete) will be reflected on the home page. To return to the home page, click on "Home" in the navigation.  
 
 ### Add an exercise
-Click on "Add" in the navigation, then fill out the form.
+Click on "Add" in the navigation, then fill out the form. Click "add" in the row next to the exercise to save it. 
 
 <img src="https://github.com/Richelle-T/exercise-tracker/assets/116057301/31516405-0689-4def-ad65-4b58b10274c5" alt="exercise-tracker-add-exercise" width="600">
 
 ### Edit an exercise
-Click on the edit icon next to the exercise you wish to modify. The form will be pre-populated with existing data from the row, and these values can be changed.  
+Click on the edit icon next to the exercise you wish to modify. The form will be pre-populated with existing data from the row, and these values can be changed. Click "save" to save your changes. 
 
 <img src="https://github.com/Richelle-T/exercise-tracker/assets/116057301/cfea3850-6d05-47d9-a190-91d5aa720f1a" alt="exercise-tracker-edit-exercise" width="600">
 
