@@ -13,9 +13,9 @@ This single-page application (SPA) uses the MERN stack (MongoDB, Express, React,
 ### Prerequisites 
 
 1. Clone this repository
-2. In both directories, enter the following commands in the terminal 
-3. Run `npm install` 
-4. Run `npm start`
+2. For both directories /exercises-rest and /exercises-ui, enter the following commands in the terminal 
+`npm install` 
+`npm start`
 
 ## Usage
 All changes made (add, edit, delete) will be reflected on the home page. To return to the home page, click on "Home" in the navigation.  
