@@ -10,7 +10,7 @@ This single-page application (SPA) uses the MERN stack (MongoDB, Express, React,
 - [Usage](#usage)
 
 ## Installation
-
+### Prerequisites 
 
 ## Usage
 All changes made (add, edit, delete) will be reflected on the home page. To return to the home page, click on "Home" in the navigation.  
