@@ -11,12 +11,15 @@ This single-page application (SPA) uses the MERN stack (MongoDB, Express, React,
 
 ## Installation
 ### Prerequisites 
+Make sure to have the following installed 
+- Node.js
+- MongoDB
 
 1. Clone this repository
 2. In the `.env` file in `/exercise-rest` replace 'your_connection_string' with your actual MongoDB string.
 MONGODB_CONNECT_STRING='your_connection_string'
 3. Navigate to `/exercises-rest` in the terminal and run `npm install` then `npm start` 
-4. Navgate to `/exercise-ui` in the terminal, and run `npm install` then `npm start`
+4. Navgate to `/exercises-ui` in the terminal, and run `npm install` then `npm start`
 5. The react application will now be running on localhost:8000 and the REST API will be running on localhost:3000 
 
 
