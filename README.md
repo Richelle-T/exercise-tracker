@@ -1,7 +1,7 @@
 # Exercise Tracker - Full Stack MERN Application
 
 ## About 
-This single-page application (SPA) uses the MERN stack (MongoDB, Express, React, Node) to track exercises completed by the user. The front-end user interface is built with React. The back-end REST API is built with Node and Express for handling data stored in MongoDB. 
+This single-page application (SPA) uses the MERN stack (MongoDB, Express, React, Node) to track exercises completed by the user. The user can add, view, update, and delete exercises. The front-end user interface is built with React. The back-end REST API is built with Node and Express for handling data stored in MongoDB. 
 
 <img src="https://github.com/Richelle-T/exercise-tracker/assets/116057301/a0fe95f8-b205-42ed-aa66-2f7b969fe23e" alt="exercise-tracker-home-page" width="500">
 
@@ -11,6 +11,11 @@ This single-page application (SPA) uses the MERN stack (MongoDB, Express, React,
 
 ## Installation
 ### Prerequisites 
+
+1. Clone this repository
+2. In both directories, enter the following commands in the terminal 
+3. Run `npm install` 
+4. Run `npm start`
 
 ## Usage
 All changes made (add, edit, delete) will be reflected on the home page. To return to the home page, click on "Home" in the navigation.  
