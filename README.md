@@ -21,10 +21,10 @@ Make sure to have the following installed
 
 ## Usage
 ### Home Page
-All changes made (add, edit, delete) will be reflected on the home page. To return to the home page, click on "Home" in the navigation.  
+All changes made (add, edit, delete) will be reflected on the home page. To return to the home page, click on `Home` in the navigation.  
 
 ### Add an exercise
-Click on "Add" in the navigation, then fill out the form. Click `Add` in the row next to the exercise to save it. 
+Click on `Add` in the navigation, then fill out the form. Click `Add` next to the exercise to save it. 
 
 <img src="https://github.com/Richelle-T/exercise-tracker/assets/116057301/31516405-0689-4def-ad65-4b58b10274c5" alt="exercise-tracker-add-exercise" width="600">
 
