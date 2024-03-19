@@ -16,7 +16,7 @@ This single-page application (SPA) uses the MERN stack (MongoDB, Express, React,
 2. For both directories `/exercises-rest` and `/exercises-ui`, enter the following commands in the terminal
 `npm install`
 `npm start`
-3. 
+3. The react application will now be running on localhost:8000 and the REST API will be running on localhost:3000 
 
 
 ## Usage
