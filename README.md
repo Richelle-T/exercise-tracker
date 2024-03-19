@@ -5,7 +5,7 @@ This single-page application (SPA) uses the MERN stack (MongoDB, Express, React,
 
 <img src="https://github.com/Richelle-T/exercise-tracker/assets/116057301/a0fe95f8-b205-42ed-aa66-2f7b969fe23e" alt="exercise-tracker-home-page" width="500">
 
-## Installation
+## Install and Run
 ### Prerequisites 
 Make sure to have the following installed 
 - Node.js
