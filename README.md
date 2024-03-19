@@ -14,8 +14,8 @@ Make sure to have the following installed
 ### Steps
 1. Clone this repository
 2. In the `.env` file in `/exercise-rest` replace 'your_connection_string' with your actual MongoDB connection string.
-3. Navigate to `/exercises-rest` in the terminal and run `npm install` then `npm start` 
-4. Navgate to `/exercises-ui` in the terminal, and run `npm install` then `npm start`
+3. Open a terminal, navigate to `/exercises-rest` and run `npm install` then `npm start` 
+4. Open another terminal, navigate to `/exercises-ui` and run `npm install` then `npm start`
 5. The react application will now be running on localhost:8000 and the REST API will be running on localhost:3000 
 
 
