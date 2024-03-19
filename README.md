@@ -13,13 +13,15 @@ This single-page application (SPA) uses the MERN stack (MongoDB, Express, React,
 
 
 ## Usage
+All changes made (add, edit, delete) will be reflected on the home page. To return to the home page, click on "Home" in the navigation.  
+
 ### Add an exercise
-Click on "Add" in the navigation, fill out the form, then click "add" in the row.
+Click on "Add" in the navigation, then fill out the form.
 
 <img src="https://github.com/Richelle-T/exercise-tracker/assets/116057301/31516405-0689-4def-ad65-4b58b10274c5" alt="exercise-tracker-add-exercise" width="600">
 
 ### Edit an exercise
-Click on the edit icon in the row on the home page, fill out the form, then click "save" in the row. 
+Click on the edit icon in the row for the exercise you wish to modify. The form will be pre-populated with existing data from the row. 
 
 <img src="https://github.com/Richelle-T/exercise-tracker/assets/116057301/cfea3850-6d05-47d9-a190-91d5aa720f1a" alt="exercise-tracker-edit-exercise" width="600">
 
