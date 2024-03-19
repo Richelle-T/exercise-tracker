@@ -1,6 +1,8 @@
-# Exercise Tracker SPA (MERN Stack)
+# Exercise Tracker (Full Stack MERN Application)
 
-This project is an assignment for building a Single Page Application (SPA) to track exercises completed by the user. It utilizes the MERN stack, consisting of MongoDB, Express.js, React, and Node.js. This README provides an overview of the project structure, functionality, technical requirements, and design features.
+## About 
+This single-page application (SPA) uses the MERN stack (MongoDB, Express, React, Node) to track exercises completed by the user. It consists of a back-end REST API built with Node and Express which accesses data from MongoDB, and a front-end user interface built with React. 
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -15,29 +17,6 @@ This project is an assignment for building a Single Page Application (SPA) to tr
 
 This project aims to create a web application where users can record their exercise activities. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on exercises. It consists of a backend REST API built with Node.js and Express.js for handling data persistence in MongoDB. The frontend is developed using React, providing an intuitive user interface for managing exercises.
 
-## Learning Outcomes
-
-This assignment covers several learning outcomes, including understanding the React component lifecycle, working with React hooks like `useEffect` and `useHistory`, deploying a React app, utilizing the Fetch API for client-server communication, and managing state in React applications.
-
-## Data Model
-
-The exercise data is stored in MongoDB with the following schema:
-
-- `name`: String, name of the exercise
-- `reps`: Number, number of times the exercise was performed
-- `weight`: Number, weight of the weights used for the exercise
-- `unit`: String, unit of measurement of the weight (kgs or lbs)
-- `date`: String, date the exercise was performed (format: MM-DD-YY)
-
-## REST API Endpoints
-
-The REST API provides the following endpoints for CRUD operations:
-
-1. `POST /exercises`: Create a new exercise
-2. `GET /exercises`: Retrieve all exercises
-3. `GET /exercises/:_id`: Retrieve a specific exercise by ID
-4. `PUT /exercises/:_id`: Update an existing exercise by ID
-5. `DELETE /exercises/:_id`: Delete an exercise by ID
 
 ## React UI
 
