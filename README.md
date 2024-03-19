@@ -34,4 +34,4 @@ Click on the edit icon next to the exercise you wish to modify. The form will be
 <img src="https://github.com/Richelle-T/exercise-tracker/assets/116057301/cfea3850-6d05-47d9-a190-91d5aa720f1a" alt="exercise-tracker-edit-exercise" width="600">
 
 ### Delete an exercise 
-Click on the trash icon next to the exercise you wish to delete. 
+Click on the trash can icon next to the exercise you wish to delete. 
