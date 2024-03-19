@@ -20,6 +20,7 @@ Make sure to have the following installed
 
 
 ## Usage
+### Home Page
 All changes made (add, edit, delete) will be reflected on the home page. To return to the home page, click on "Home" in the navigation.  
 
 ### Add an exercise
